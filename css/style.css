@@ -947,3 +947,8 @@ font-size: inherit;
   }
 }
 
+/* Because of the blank space in the right direction */
+body, html {
+  overflow-x: hidden;
+}
+
